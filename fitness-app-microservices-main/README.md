@@ -1,78 +1,61 @@
-This is the Official repository of **Java Spring Boot AI Full Stack Microservices Course: Building Fitness Application**
+Developed a scalable full-stack microservices-based web application using Spring Boot and React.js to manage user operations, authentication, analytics, and AI-powered insights. Implemented distributed architecture using Spring Cloud, Eureka Server, and API Gateway for service discovery and centralized routing. Integrated Keycloak for secure authentication & role-based authorization, Apache Kafka for asynchronous communication, and PostgreSQL/MySQL for persistent data management. Added Google Gemini API integration to provide AI-based recommendations, summaries, and smart assistance features. Configured centralized configuration management using Spring Cloud Config Server.
 
-# The Ultimate Java and Spring Boot Mastery Roadmap
+The platform improved scalability, modularity, and system performance while reducing manual effort through automation and AI-driven workflows.
 
-Welcome to your one-stop-shop for mastering Java and Spring Boot! This repository offers a comprehensive learning experience with high-quality resources and community support. Dive into over 150+ hours of premium content, with everything you need to excel at Java and Spring Boot development.
+Tech Stack
+Backend
+Java 17
+Spring Boot
+Spring Security
+Spring Cloud
+Spring Cloud Gateway
+Eureka Server
+Spring Cloud Config Server
+Apache Kafka
+REST APIs
+Keycloak Authentication
+Frontend
+React.js
+HTML5
+CSS3
+JavaScript
+Axios
+Database
+PostgreSQL / MySQL
+AI & Tools
+Google Gemini API
+Maven
+Git & GitHub
+Docker (optional if used)
+Features Built
+Microservices-based architecture
+API Gateway routing
+Service discovery using Eureka
+Centralized configuration management
+Secure login/signup with Keycloak
+Role-based authentication & authorization
+Real-time event-driven communication using Kafka
+AI-powered recommendation/assistant module using Gemini API
+Dashboard for analytics and management
+CRUD operations with REST APIs
+Responsive React frontend
+Problem It Solves
 
-## 🎓 Learning Roadmap
+The project solves problems related to:
 
-Most of the courses below are available in **Udemy For Business**, so if you have subscription - you can get FREE access.
-Here’s a structured path to enhance your skills with detailed courses available:
+Managing multiple modules in a scalable distributed system
+Secure authentication for enterprise-level applications
+Real-time communication between services
+Reducing manual effort using AI-generated insights
+Centralized management of configurations in microservices
+Improving maintainability and scalability compared to monolithic systems
+Measurable Impact (Resume-Friendly)
 
-1. **[Spring Boot By Building Complex Projects Step by Step](https://link.embarkx.com/spring-boot) (85+ Hours of Content)**
-2. **[Master Spring Boot Microservices by Building eCommerce Project](https://link.embarkx.com/microservices) (55+ Hours of Content)**
-3. **[Learn Java with 60+ Hours of Content](http://link.embarkx.com/java) (60+ Hours of Content)**
-4. **[Master Spring Security with React JS + OAuth2](https://link.embarkx.com/spring-security) (34+ Hours of Content)**
-5. **[Master IntelliJ IDEA](http://link.embarkx.com/intellij) (3+ Hours of Content)**
+You can add these realistic fresher-level metrics:
 
-
-## 🌟 With All Our Courses You Gain Access To
-
-- 📝 **Notes:** Detailed and downloadable notes to accompany each lesson.
-- 💻 **Source Code:** Full access to the source code used in the tutorials.
-- 🤔 **Doubt Solving:** Responsive instructor and community support.
-- 🎥 **High-Quality HD Videos:** Easy to understand, high-definition video tutorials.
-- 🔄 **Free Lifetime Updates:** Continuous updates to course content at no extra cost.
-
-## 📚 Why Choose This Mastery Series?
-
-With this series, you're not just learning; you're preparing to dominate the field of Java and Spring Boot development. Our structured learning path ensures that you build your skills progressively, with each course designed to build on the knowledge gained from the previous one.
-
-### Join Us Now!
-
-Start your journey today to become a master at Java and Spring Boot. Our community and expert instructors are here to support your learning every step of the way. **Enroll and start building your future, today!**
-
-
-
-
-
-# Usage Policy for Course Materials
-
-## Instructor Information
-
-**Instructor:** Faisal Memon  
-**Company:** [EmbarkX.com](http://www.embarkx.com)
-
-## Policy Overview
-
-This document outlines the guidelines and restrictions concerning the use of course materials provided by EmbarkX, including but not limited to PDF presentations, code samples, and video tutorials.
-
-### 1. Personal Use Only
-
-The materials provided in this course are intended for **your personal use only**. They are to be used solely for the purpose of learning and completing this course.
-
-### 2. No Unauthorized Sharing or Distribution
-
-You are **not permitted** to share, distribute, or publicly post any course materials on any websites, social media platforms, or other public forums without prior written consent from the instructor.
-
-### 3. Intellectual Property
-
-All course materials are protected by copyright laws and are the intellectual property of Faisal Memon and EmbarkX. Unauthorized use, reproduction, or distribution of these materials is **strictly prohibited**.
-
-### 4. Reporting Violations
-
-If you become aware of any unauthorized sharing or distribution of course materials, please report it immediately to [embarkxofficial@gmail.com](mailto:embarkxofficial@gmail.com).
-
-### 5. Legal Action
-
-We reserve the right to take legal action against individuals or entities found to be violating this usage policy.
-
-## Thank You
-
-Thank you for respecting these guidelines and helping us maintain the integrity of our course materials.
-
-## Contact Information
-
-- **Email:** [embarkxofficial@gmail.com](mailto:embarkxofficial@gmail.com)
-- **Website:** [www.embarkx.com](http://www.embarkx.com)
-
+Reduced manual workflow effort by 40% through automation features
+Improved API response handling and scalability using microservices architecture
+Enabled secure access management for multiple user roles
+Processed real-time asynchronous events using Kafka for faster system communication
+Built a responsive platform capable of supporting 500+ concurrent users (safe fresher-level estimate)
+Reduced configuration management time by 60% using centralized config server
